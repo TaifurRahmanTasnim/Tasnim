@@ -9,8 +9,7 @@ I'm Md. Taifur Rahman Tasnim, a passionate web developing learner and a class 9 
 </body>
 <footer>
 <h2>You can contact me in :</h2>
-    Email:tasnimtaifur@gmail.com  
-    Facebook:T R Tasnim              Call:+8801722838044
+    Email:tasnimtaifur@gmail.com / Facebook:T R Tasnim /             Call:+8801722838044
 </footer>
     </html>
 
