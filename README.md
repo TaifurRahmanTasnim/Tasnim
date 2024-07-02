@@ -2,10 +2,10 @@
 <!DOCTYPE html>
 <html>
 <head>
-    Tasnim
+I'm Md. Taifur Rahman Tasnim, a passionate web developing learner and a class 9 student from Bangladesh. I have made this portfolio only for tasting. 
 </head>
 <body>
-    <h1>Welcome to My Portfolio!</h1>
+    <h1>Welcome to My Portfolio!I'm feeling very happy to see you here. </h1>
     <p>This is a showcase of my work and skills.</p>
 
     <h2>Projects:</h2>
@@ -13,15 +13,6 @@
         <li>Project 1</li>
         <li>Project 2</li>
         <li>Project 3</li>
-    </ul>
-
-    <h2>Skills:</h2>
-    <ul>
-        <li>HTML</li>
-        <li>CSS</li>
-        <li>JavaScript</li>
-        <li>Python</li>
-    </ul>
 </body>
 </html>
 
