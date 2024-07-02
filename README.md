@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Tasnim</title>
+    Tasnim
 </head>
 <body>
     <h1>Welcome to My Portfolio!</h1>
