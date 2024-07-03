@@ -19,7 +19,7 @@ Myself
 
 🌱 I’m currently learning web designing...
 
-💞️ I’m looking to collaborate on javscript
+💞️ I’m looking to collaborate on javascript
 </body>
 <footer>
 <h2>You can contact me in :</h2>
