@@ -11,10 +11,14 @@ I'm Md. Taifur Rahman Tasnim, a passionate web developing learner and a class 9 
 </chest>
 <body>
 <h2>My personal data</h2>
-👋 Hi, I’m @TaifurRahmanTasnim
-👀 I’m interested in .Web designing ..
-🌱 I’m currently learning .Web design ..
+👋 Hi, I’m TaifurRahmanTasnim...
+
+👀 I’m interested in web designing ...
+
+🌱 I’m currently learning web designing...
+
 💞️ I’m looking to collaborate on javscript
+</body>
 <footer>
 <h2>You can contact me in :</h2>
     Email:tasnimtaifur@gmail.com 
