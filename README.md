@@ -6,6 +6,7 @@
 </head>
 
 <body>
+<h3>About myself </h3>
 I'm Md. Taifur Rahman Tasnim, a passionate web developing learner and a class 9 student from Bangladesh. I have made this portfolio only for tasting. 
 </body>
 <footer>
