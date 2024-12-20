@@ -9,8 +9,8 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Md.Taifur Rahman Tasnim  - Portfolio</title>
     <style>
-        /* General Reset */
-        * {
+        / General Reset /
+        {
             margin: 0;
             padding: 0;
             box-sizing: border-box;
