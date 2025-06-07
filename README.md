@@ -9,8 +9,9 @@
 <h3>About myself </h3>
 I'm Md. Taifur Rahman Tasnim, a passionate web developing learner and a class 10 student from Bangladesh. I have made this portfolio to share my personal description.  
 </chest>
-<a href="https://ibb.co/m6ZS0sF"><img src="https://i.ibb.co/6g9N8hJ/1717730989466-1.jpg" alt="1717730989466-1" border="0"></a>
-Myself
+<a href="https://ibb.co/m6ZS0sF"><img src="https://i.ibb.co/6g9N8hJ/1717730989466-1.jpg" alt="1717730989466-1" border="0"></a> 
+ <a href="https://ibb.co/JWvLQSSW"><img src="https://i.ibb.co/fVkRvTTV/IMG-20250201-WA0039.jpg" alt="IMG-20250201-WA0039" border="0"></a>
+                    Myself
 <body>
 <h2>My personal data</h2>
 👋 Hi, I’m Taifur Rahman Tasnim...
